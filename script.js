@@ -7,3 +7,7 @@ function tarbumbum(a, b) {
 }
 
 console.log(tarbumbum())
+
+function kria(a) {
+    return a
+}
