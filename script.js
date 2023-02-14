@@ -11,3 +11,7 @@ console.log(tarbumbum())
 function kria(a) {
     return a
 }
+
+function dbkria(a) {
+    return a * 2;
+}
